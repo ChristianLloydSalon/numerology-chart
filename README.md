@@ -23,6 +23,7 @@ To run the Numerology Calculator, follow these steps:
    dart run coding_challenge.dart
    ```
 4. Follow the prompts in the terminal to enter your full name.
+5. You can also view the github repository here [Numerology Calculator](https://github.com/ChristianLloydSalon/numerology-chart) 
 
 ## Challenges
 During the development of this program, I encountered several challenges:
